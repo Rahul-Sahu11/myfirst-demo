@@ -1,3 +1,3 @@
 # myfirst-demo
-this is my first Git Repository
+this is my first Git Repository.
 Author - Rahul sahu
